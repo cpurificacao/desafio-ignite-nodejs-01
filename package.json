@@ -1,0 +1,8 @@
+{
+  "name": "ignite-nodejs-01-fundamentos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cpurificacao/desafio-ignite-nodejs-01-fundamentos.git",
+  "author": "cpurificacao <carlos.purificacao@outlook.com>",
+  "license": "MIT"
+}
